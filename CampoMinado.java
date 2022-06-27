@@ -101,6 +101,7 @@ public class CampoMinado
 	                break;
 	            }
 	        }
+		leitor.close();
     	   
 	    }   
 	}
