@@ -1,2 +1,2 @@
-# campo-minado---java
+# Campo Minado
 Jogo de Campo Minado usando Java. Os campos são feitos por um vetor de registro que contém um inteiro e uma String. O usuário terá 10 chances de chutar uma posição no array, a cada chute caso o número dessa posição seja par, o jogador pontua, o campo é limpo e ele pontua se as posições adjacentes a essa forem pares também.  Em caso da posição chutada ser impar ou já estar limpar, o usuário perde uma chance e não pontua nada.
